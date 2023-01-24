@@ -1,0 +1,21 @@
+.DropHeader{
+    position: fixed;
+    right: 0;
+    background-color: #fff;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    z-index: 100;
+    // transition: all .4s ease-in-out;
+
+}
+
+.NavHeaders{
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+    
+}

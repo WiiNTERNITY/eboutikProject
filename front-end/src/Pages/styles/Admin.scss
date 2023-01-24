@@ -1,0 +1,17 @@
+.Admin{
+    margin: 10px;
+    .Admin-content{
+        display: flex;
+        align-content: center;
+        .Admin-nav{
+            padding: 10px;
+        }
+        .Admin-content{
+            width: 100%;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}

@@ -1,0 +1,47 @@
+.ArticleForm{
+    padding: 20px;
+    form{
+        .field{
+            margin-bottom: 10px;
+            input{
+                border: none;
+                padding: 10px;
+                border-radius: 5px;
+                width: 100%;
+            }
+        }
+        .field{
+            input{
+                background-color: #fff;
+            }
+        }
+        .field{
+            .select{
+                padding: 10px;
+                width: 100%;
+                border: none;
+                border-radius: 5px;
+                outline: none;
+            }
+        }
+        .field{
+            textarea{
+                width: 100%;
+                outline: none;
+                border: none;
+                border-radius: 5px;
+                padding: 10px;
+            }
+        }
+        button{
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            width: 100%;
+            font-weight: 900;
+            font-size: 16px;
+        }
+    }
+}
